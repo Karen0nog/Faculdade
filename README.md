@@ -3,13 +3,10 @@ Nome: Aurora Almeida dos Campos
 <br>Idade: 34 anos
 <br>Empresa 1:
 Global Nexus
-Cargo: Auxiliar de operações
 <br>Empresa 2:
 Mercator Mundial
-Cargo: Auxiliar de logística
 <br>Empresa 3:
 Nova Rota
-Cargo: Auxiliar administrativo
 <br>Habilidades/especialidades:
 *	Organização e atenção aos detalhes;
 *	Domínio do inglês;
